@@ -338,7 +338,7 @@
     height: 90vh;
 }
 .offers-container{
-    width: 70%;
+    width: 80%;
     margin: auto;
 }
 .offers-parent{
@@ -353,27 +353,27 @@
     text-align: center;
 }
 .offers-card h4{
-    font-size: 22px;
+    font-size: 25px;
     color: black;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 .offers-card p{
-    font-size:15px;
+    font-size:17px;
     color: #9d9d9d;
 }
 .offers-card{
     position: relative;
     float: left;
-    width: 25%;
-    height: 160px;
+    width: 26%;
+    height: 180px;
     margin-bottom: 5%;
     padding:25px 50px;
     border: 1px solid #aa7474;
     border-radius: 10px;
 }
 .offers-card2,.offers-card5{
-    margin-left: 12.5%;
-    margin-right: 12.5%;
+    margin-left: 11%;
+    margin-right: 11%;
 }
 
 .offers-card i{
